@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/ntfs/Terminal/Android/assignment2/Lab5-AsyncTaskLab/app/build/intermediates/res/merged/debug/layout/feed.xml",
+        "source": "/media/ntfs/Terminal/Android/assignment2/Lab5-AsyncTaskLab/app/src/main/res/layout/feed.xml"
+    },
+    {
+        "merged": "/media/ntfs/Terminal/Android/assignment2/Lab5-AsyncTaskLab/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/ntfs/Terminal/Android/assignment2/Lab5-AsyncTaskLab/app/src/main/res/layout/activity_main.xml"
+    }
+]
